@@ -2,8 +2,10 @@
 //  SceneDelegate.swift
 //  Test
 //
-//  Created by Angela Yu on 13/06/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Created by Mehmet Aydın Bekem on 30/07/2020.
+//  Studied from Udemy course.
+//  All rights reserved.
+//
 //
 
 import UIKit
